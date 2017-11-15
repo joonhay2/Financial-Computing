@@ -1,0 +1,4 @@
+﻿  calcul.cpp
+c:\users\com\documents\visual studio 2015\projects\black_jack_simulation\black_jack_simulation\calcul.cpp(195): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Black_Jack_Simulation.vcxproj -> C:\Users\com\Documents\Visual Studio 2015\Projects\Black_Jack_Simulation\Debug\Black_Jack_Simulation.exe
+  Black_Jack_Simulation.vcxproj -> C:\Users\com\Documents\Visual Studio 2015\Projects\Black_Jack_Simulation\Debug\Black_Jack_Simulation.pdb (Full PDB)

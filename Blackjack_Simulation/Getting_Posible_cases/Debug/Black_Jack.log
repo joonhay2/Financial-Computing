@@ -1,0 +1,5 @@
+﻿  blackjack.cpp
+c:\users\com\documents\visual studio 2015\projects\black_jack\black_jack\blackjack.cpp(274): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\com\documents\visual studio 2015\projects\black_jack\black_jack\blackjack.cpp(123): warning C4715: 'hitting': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  Black_Jack.vcxproj -> C:\Users\com\Documents\Visual Studio 2015\Projects\Black_Jack\Debug\Black_Jack.exe
+  Black_Jack.vcxproj -> C:\Users\com\Documents\Visual Studio 2015\Projects\Black_Jack\Debug\Black_Jack.pdb (Full PDB)
